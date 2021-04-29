@@ -1,0 +1,2 @@
+# lab_1_managing_files_bash_zshell
+lab_1_managing_files_bash_zshell
